@@ -1,0 +1,3 @@
+# BackUp_1c
+VB script to backup 1c (*.dt)
+...
